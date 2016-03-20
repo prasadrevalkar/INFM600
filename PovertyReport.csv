@@ -1,0 +1,171 @@
+﻿PolygonLayer1_label,Value0
+,15.5
+
+PolygonLayer2_label,Value0
+,15.5
+,19.2
+,11.4
+,18.2
+,18.7
+,16.4
+,12.1
+,10.8
+,13.0
+,18.4
+,16.6
+,18.4
+,11.5
+,14.8
+,14.3
+,15.2
+,12.3
+,13.5
+,19.0
+,19.9
+,14.0
+,10.4
+,11.7
+,16.2
+,11.4
+,21.9
+,15.5
+,15.2
+,12.3
+,15.4
+,9.2
+,11.1
+,20.6
+,16.0
+,17.2
+,11.1
+,15.8
+,16.6
+,16.4
+,13.6
+,14.8
+,17.9
+,14.1
+,18.2
+,17.2
+,11.8
+,12.0
+,11.8
+,13.2
+,18.3
+,13.2
+,11.2
+
+Textbox105,Textbox106,fips2,county2,ruc_code2,total_est_pct3,total_est_pct_Bmin3,total_est_pct_Bmax3,under18_pct3,under18_pct_Bmin3,under18_pct_Bmax3
+All people in poverty (2014),Children ages 0-17 in poverty (2014),00000,National,,15.5,15.4,15.6,21.7,21.5,21.9
+
+Textbox93,Textbox96,fips,county,ruc_code,total_est,total_Bmin,total_Bmax,under18,under18_Bmin,under18_Bmax
+All people in poverty (2014),Children ages 0-17 in poverty (2014),00000,National,,"48,208,387","47,966,830","48,449,944","15,686,012","15,564,145","15,807,879"
+
+Textbox98,Textbox99,state_National,total_est_pct2,total_est_pct_Bmin2,total_est_pct_Bmax2,under18_pct2,under18_pct_Bmin2,under18_pct_Bmax2
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Alabama,19.2,18.8,19.6,27.4,26.6,28.2
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Alaska,11.4,10.8,12.0,15.5,14.4,16.6
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Arizona,18.2,17.9,18.5,25.6,24.9,26.3
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Arkansas,18.7,18.3,19.1,26.3,25.4,27.2
+All people in poverty (2014),Children ages 0-17 in poverty (2014),California,16.4,16.3,16.5,22.6,22.3,22.9
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Colorado,12.1,11.8,12.4,15.6,14.9,16.3
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Connecticut,10.8,10.5,11.1,14.9,14.1,15.7
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Delaware,13.0,12.5,13.5,19.2,18.1,20.3
+All people in poverty (2014),Children ages 0-17 in poverty (2014),District of Columbia,18.4,17.5,19.3,28.9,25.7,32.1
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Florida,16.6,16.4,16.8,24.2,23.6,24.8
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Georgia,18.4,18.1,18.7,26.3,25.7,26.9
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Hawaii,11.5,11.0,12.0,15.2,14.2,16.2
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Idaho,14.8,14.3,15.3,19.0,18.1,19.9
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Illinois,14.3,14.1,14.5,20.1,19.6,20.6
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Indiana,15.2,14.9,15.5,21.2,20.6,21.8
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Iowa,12.3,12.0,12.6,15.5,14.7,16.3
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Kansas,13.5,13.2,13.8,17.6,16.9,18.3
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Kentucky,19.0,18.6,19.4,25.9,25.2,26.6
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Louisiana,19.9,19.5,20.3,28.0,27.2,28.8
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Maine,14.0,13.5,14.5,19.0,17.9,20.1
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Maryland,10.4,10.1,10.7,13.8,13.1,14.5
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Massachusetts,11.7,11.4,12.0,15.3,14.7,15.9
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Michigan,16.2,16.0,16.4,22.6,22.1,23.1
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Minnesota,11.4,11.1,11.7,14.8,14.2,15.4
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Mississippi,21.9,21.4,22.4,30.7,29.7,31.7
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Missouri,15.5,15.2,15.8,21.3,20.6,22.0
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Montana,15.2,14.7,15.7,19.2,18.2,20.2
+All people in poverty (2014),Children ages 0-17 in poverty (2014),National,15.5,15.4,15.6,21.7,21.5,21.9
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Nebraska,12.3,11.9,12.7,16.0,15.2,16.8
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Nevada,15.4,15.0,15.8,22.2,21.2,23.2
+All people in poverty (2014),Children ages 0-17 in poverty (2014),New Hampshire,9.2,8.8,9.6,12.6,11.6,13.6
+All people in poverty (2014),Children ages 0-17 in poverty (2014),New Jersey,11.1,10.9,11.3,15.8,15.3,16.3
+All people in poverty (2014),Children ages 0-17 in poverty (2014),New Mexico,20.6,20.1,21.1,28.0,27.0,29.0
+All people in poverty (2014),Children ages 0-17 in poverty (2014),New York,16.0,15.8,16.2,22.9,22.4,23.4
+All people in poverty (2014),Children ages 0-17 in poverty (2014),North Carolina,17.2,17.0,17.4,24.1,23.5,24.7
+All people in poverty (2014),Children ages 0-17 in poverty (2014),North Dakota,11.1,10.5,11.7,13.7,12.6,14.8
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Ohio,15.8,15.6,16.0,22.7,22.2,23.2
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Oklahoma,16.6,16.3,16.9,22.4,21.8,23.0
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Oregon,16.4,16.0,16.8,21.3,20.4,22.2
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Pennsylvania,13.6,13.4,13.8,19.2,18.7,19.7
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Rhode Island,14.8,14.3,15.3,21.2,20.1,22.3
+All people in poverty (2014),Children ages 0-17 in poverty (2014),South Carolina,17.9,17.6,18.2,26.4,25.6,27.2
+All people in poverty (2014),Children ages 0-17 in poverty (2014),South Dakota,14.1,13.6,14.6,18.4,17.4,19.4
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Tennessee,18.2,17.9,18.5,25.9,25.2,26.6
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Texas,17.2,17.0,17.4,24.5,24.1,24.9
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Utah,11.8,11.4,12.2,13.4,12.6,14.2
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Vermont,12.0,11.4,12.6,15.4,14.2,16.6
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Virginia,11.8,11.6,12.0,15.9,15.3,16.5
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Washington,13.2,12.9,13.5,17.5,16.9,18.1
+All people in poverty (2014),Children ages 0-17 in poverty (2014),West Virginia,18.3,17.8,18.8,25.0,24.0,26.0
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Wisconsin,13.2,13.0,13.4,18.4,17.8,19.0
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Wyoming,11.2,10.6,11.8,13.7,12.6,14.8
+
+Textbox100,Textbox119,state_National2,total_est_pct4,total_est_pct_Bmin4,total_est_pct_Bmax4,under18_pct4,under18_pct_Bmin4,under18_pct_Bmax4
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Alabama,"905,682","888,317","923,047","298,682","290,188","307,176"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Alaska,"81,622","77,611","85,633","28,273","26,300","30,246"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Arizona,"1,195,889","1,175,667","1,216,111","406,457","396,052","416,862"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Arkansas,"539,999","528,604","551,394","183,334","177,391","189,277"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),California,"6,253,423","6,203,456","6,303,390","2,040,811","2,011,678","2,069,944"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Colorado,"632,987","617,871","648,103","191,679","183,332","200,026"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Connecticut,"375,281","364,395","386,167","113,733","107,953","119,513"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Delaware,"118,032","113,079","122,985","38,543","36,281","40,805"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),District of Columbia,"114,790","108,967","120,613","32,807","29,187","36,427"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Florida,"3,231,142","3,187,670","3,274,614","962,857","940,621","985,093"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Georgia,"1,802,783","1,775,584","1,829,982","646,960","631,217","662,703"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Hawaii,"158,266","151,850","164,682","45,637","42,587","48,687"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Idaho,"237,604","230,083","245,125","80,668","76,639","84,697"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Illinois,"1,802,337","1,778,953","1,825,721","591,750","577,617","605,883"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Indiana,"968,437","950,798","986,076","328,349","318,378","338,320"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Iowa,"368,678","358,553","378,803","110,382","104,929","115,835"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Kansas,"381,506","371,806","391,206","125,562","120,243","130,881"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Kentucky,"812,803","797,212","828,394","256,368","249,013","263,723"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Louisiana,"898,902","882,243","915,561","307,469","298,623","316,315"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Maine,"181,737","175,900","187,574","47,862","45,193","50,531"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Maryland,"604,762","588,802","620,722","183,531","174,546","192,516"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Massachusetts,"760,211","743,843","776,579","209,291","200,777","217,805"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Michigan,"1,567,465","1,544,878","1,590,052","492,257","482,045","502,469"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Minnesota,"607,870","594,503","621,237","186,025","178,092","193,958"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Mississippi,"634,960","621,876","648,044","220,885","213,417","228,353"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Missouri,"908,394","890,929","925,859","289,287","279,932","298,642"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Montana,"151,915","146,451","157,379","42,150","39,999","44,301"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),National,"48,208,387","47,966,830","48,449,944","15,686,012","15,564,145","15,807,879"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Nebraska,"225,054","218,509","231,599","73,270","69,375","77,165"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Nevada,"430,447","418,251","442,643","144,947","138,676","151,218"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),New Hampshire,"117,822","112,610","123,034","33,155","30,479","35,831"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),New Jersey,"972,441","954,252","990,630","314,073","303,483","324,663"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),New Mexico,"420,388","409,771","431,005","138,918","133,752","144,084"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),New York,"3,082,613","3,046,367","3,118,859","949,253","930,163","968,343"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),North Carolina,"1,663,954","1,640,565","1,687,343","544,149","530,093","558,205"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),North Dakota,"79,203","75,164","83,242","22,572","20,816","24,328"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Ohio,"1,778,288","1,755,728","1,800,848","588,618","574,885","602,351"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Oklahoma,"623,162","611,984","634,340","209,022","202,988","215,056"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Oregon,"637,156","621,361","652,951","179,110","171,930","186,290"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Pennsylvania,"1,679,008","1,656,324","1,701,692","510,371","497,968","522,774"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Rhode Island,"149,825","144,246","155,404","44,563","42,149","46,977"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),South Carolina,"838,065","822,623","853,507","281,738","272,769","290,707"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),South Dakota,"115,906","111,520","120,292","37,836","35,834","39,838"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Tennessee,"1,165,245","1,145,236","1,185,254","380,159","369,180","391,138"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Texas,"4,519,548","4,474,578","4,564,518","1,721,843","1,695,196","1,748,490"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Utah,"341,587","330,845","352,329","120,155","113,195","127,115"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Vermont,"72,294","68,859","75,729","18,374","16,966","19,782"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Virginia,"955,541","936,889","974,193","292,525","282,366","302,684"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Washington,"913,463","895,355","931,571","275,662","265,882","285,442"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),West Virginia,"328,734","320,351","337,117","91,659","88,030","95,288"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Wisconsin,"737,307","723,342","751,272","233,850","226,399","241,301"
+All people in poverty (2014),Children ages 0-17 in poverty (2014),Wyoming,"63,860","60,264","67,456","18,580","17,090","20,070"
+
