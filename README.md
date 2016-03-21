@@ -44,7 +44,7 @@ Files
 ---------------
 What questions can be answered with this data set?
 ---------------
-**Is there any significant relation between poverty rate in 2014 and education rate for 2010-2014 for all the states of United States of America?**
+Is there any significant relation between poverty rate in 2014 and education rate for 2010-2014 for all the states of United States of America?
 
 ---------------
 Initial Conclusions
