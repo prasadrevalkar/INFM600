@@ -53,12 +53,14 @@ Initial Conclusions
 We used R programming language for analysis process. We performed the correlation in R programming language considering total education rate and total poverty rate. After correlation, we found that education rate is inversely proportion to poverty rate. In other words, for 1 unit increase in education rate there is 0.2749488 units decrease in poverty rate. We also analyzed the dataset in Tableau. We drew a bar graph to explore the statewise distribution of poverty rate and education rate. 
 
 correlation between education rate and poverty rate
-
 ![alt tag](https://github.com/prasadrevalkar/INFM600/blob/master/correlation%20between%20education%20rate%20and%20poverty%20rate.jpg)
 
-Graph of education rate vs. poverty rate
+Statewise distribution of education rate and poverty rate
+![alt tag](https://github.com/prasadrevalkar/INFM600/blob/master/Statewise%20distribution%20of%20education%20rate%20and%20poverty%20rate.png)
 
-![alt tag](https://github.com/prasadrevalkar/INFM600/blob/master/Graph%20of%20education%20rate%20vs.%20poverty%20rate.png)
+Correlation graph between education rate and poverty rate
+![alt tag](https://github.com/prasadrevalkar/INFM600/blob/master/correlation%20graph%20between%20education%20rate%20and%20poverty%20rate.jpg)
+
 
 ------- 
 License
