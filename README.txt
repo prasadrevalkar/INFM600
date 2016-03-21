@@ -89,8 +89,8 @@ Revalkar, P. (2016), Kurane, A. (2016, March 15). Education and Poverty Rate com
 
 
 -------
-Authors
+Credits
 -------
 
-This dataset was built by Prasad Revalkar and Amar Kurane.. To reference, you can use the following citation:
-Revalkar, P. (2016), Kurane, A. (2016, March 15). Education and Poverty Rate combined. [Dataset CSV file]. Retrieved from https://github.com/prasadrevalkar/INFM600/blob/master/Education%20and%20Poverty%20rate%20combined.csv.
+This dataset was built by Prasad Revalkar and Amar Kurane. To reference, you can use the following citation:
+Revalkar, P. (2016), Kurane, A. (2016, March 15). Education and Poverty Rate combined. [Dataset CSV file]. Retrieved from https://github.com/prasadrevalkar/INFM600/.
