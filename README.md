@@ -33,7 +33,7 @@ This data set uses the data from the focal data set (EducationReport.csv) for ye
 Analysis
 ---------------
 
-**Is there any significant relation between poverty rate for 2014 and education rate between 2010-2014 for all the states of United States of America?**
+**Is there any significant relation between poverty rate in 2014 and education rate for 2010-2014 for all the states of United States of America?**
 
 We used R programming language for analysis process. We performed the correlation in R programming language considering total education rate and total poverty rate. After correlation, we found that education rate is inversely proportion to poverty rate. In other words, for 1 unit increase in education rate there is 0.2749488 units decrease in poverty rate. We also analyzed the dataset in Tableau. We drew a bar graph to explore the statewise distribution of poverty rate and education rate. 
 
