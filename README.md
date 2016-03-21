@@ -58,7 +58,7 @@ correlation between education rate and poverty rate
 
 Graph of education rate vs. poverty rate
 
-![alt tag](https://github.com/gavishgulati/INFM600/blob/master/Houses_Apartments.jpg)
+![alt tag](https://github.com/prasadrevalkar/INFM600/blob/master/Graph%20of%20education%20rate%20vs.%20poverty%20rate.png)
 
 ------- 
 License
