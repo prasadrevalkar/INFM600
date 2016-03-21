@@ -81,9 +81,9 @@ Acknowledgements
 References
 ----------
 
-United states Department of Agriculture. (2016, Feb 3). EducationReport [Dataset CSV file]. Retrieved from http://www.ers.usda.gov/data-products/county-level-data-sets/education.aspx. March 7, 2016.
+United states Department of Agriculture. (2016, Feb 3). *EducationReport* [Dataset CSV file]. Retrieved from http://www.ers.usda.gov/data-products/county-level-data-sets/education.aspx. March 7, 2016.
 
-United States Department of Agriculture. (2016, Feb 3). PovertyReport [Dataset CSV file]. Retrieved from http://www.ers.usda.gov/data-products/county-level-data-sets/poverty.aspx. March 7, 2016.
+United States Department of Agriculture. (2016, Feb 3). *PovertyReport* [Dataset CSV file]. Retrieved from http://www.ers.usda.gov/data-products/county-level-data-sets/poverty.aspx. March 7, 2016.
 
 -------
 Credits
