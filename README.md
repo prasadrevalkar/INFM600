@@ -33,13 +33,13 @@ This data set uses the data from the focal data set (EducationReport.csv) for ye
 Files
 -----
 
-*EducationReport.csv*
+**Focal Dataset**: *EducationReport.csv*
 
-*PovertyReport.csv*
+**Supporting Dataset**: *PovertyReport.csv*
 
-*Education and Poverty Rate combined.csv*
+**Merged Dataset**: *Education and Poverty Rate combined.csv*
 
-*Process Documentation.pdf* - Steps taken to clean and combine the data into the format presented.
+**Process Documentation**: *Process Documentation.pdf* (Steps taken to clean and combine the data into the format presented.)
 
 ---------------
 What questions can be answered with this data set?
