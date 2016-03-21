@@ -1,4 +1,4 @@
-# INFM600 
+# INFM600 Information Discovery & Analysis Project
 -------
 Version
 -------
@@ -84,9 +84,6 @@ References
 United states Department of Agriculture. (2016, Feb 3). EducationReport [Dataset CSV file]. Retrieved from http://www.ers.usda.gov/data-products/county-level-data-sets/education.aspx. March 7, 2016.
 
 United States Department of Agriculture. (2016, Feb 3). PovertyReport [Dataset CSV file]. Retrieved from http://www.ers.usda.gov/data-products/county-level-data-sets/poverty.aspx. March 7, 2016.
-
-Revalkar, P. (2016), Kurane, A. (2016, March 15). Education and Poverty Rate combined. [Dataset CSV file]. Available from https://github.com/prasadrevalkar/INFM600/blob/master/Education%20and%20Poverty%20rate%20combined.csv.
-
 
 -------
 Credits
